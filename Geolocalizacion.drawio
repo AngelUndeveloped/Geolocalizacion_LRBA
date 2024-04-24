@@ -1,0 +1,54 @@
+<mxfile host="65bd71144e">
+    <diagram id="LzIPRstwCDHowY6YndeP" name="Main Menu">
+        <mxGraphModel dx="1599" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <UserObject label="Main Menu" id="2">
+                    <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;" vertex="1" parent="1">
+                        <mxGeometry y="890" width="140" height="210" as="geometry">
+                            <mxRectangle width="100" height="30" as="alternateBounds"/>
+                        </mxGeometry>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Deltas CDC Original" id="3">
+                    <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;glass=0;shadow=0;portConstraintRotation=0;fixDash=0;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" vertex="1" parent="2">
+                        <mxGeometry y="30" width="140" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Deltas CDC Distribuido" id="4">
+                    <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" vertex="1" parent="2">
+                        <mxGeometry y="90" width="140" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Documentación" link="https://drive.google.com/drive/folders/1Li8K_Ma2Wh0eFty6xAMaVWvQrgy2sxwr?usp=sharing" id="5">
+                    <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;comic=0;enumerate=0;treeMoving=0;treeFolding=0;resizeHeight=0;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" vertex="1" parent="2">
+                        <mxGeometry y="150" width="140" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Legend" id="6">
+                    <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;" vertex="1" parent="1">
+                        <mxGeometry x="160" y="890" width="140" height="210" as="geometry">
+                            <mxRectangle width="100" height="30" as="alternateBounds"/>
+                        </mxGeometry>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Host/DB2" id="7">
+                    <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;glass=0;shadow=0;portConstraintRotation=0;fixDash=0;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" vertex="1" parent="6">
+                        <mxGeometry y="30" width="140" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="LRBA" id="8">
+                    <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" vertex="1" parent="6">
+                        <mxGeometry y="90" width="140" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="APX" id="9">
+                    <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;comic=0;enumerate=0;treeMoving=0;treeFolding=0;resizeHeight=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#000000;" vertex="1" parent="6">
+                        <mxGeometry y="150" width="140" height="60" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
