@@ -52,7 +52,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="cPc55oP-PTSowHgi8XHT" name="Original">
-        <mxGraphModel dx="828" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+        <mxGraphModel dx="1284" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" value="Main Processes" parent="0"/>
@@ -307,7 +307,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="xPb23IkHYWcf8CG7ianO" name="LRBA">
-        <mxGraphModel dx="1550" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1684" dy="689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" value="Main Process" parent="0"/>
